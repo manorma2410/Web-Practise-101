@@ -1,0 +1,57 @@
+VISUAL STUDIO CODE
+
+MDN- shortcut 
+1.HEAD,
+2.google title- change in para 
+3.!--> SHORTCUT for HEAD,BODY, HTML, PARA 
+4.doc formating:
+5.CTL+SFT+D --> FORMATING PARA
+
+6.ctl+ down buttton --> to copy or duplicate a line
+
+7.MDN-2 type of list
+ a.unordered list - <ul 
+ b.ordered list - <ol
+8. <Li to list single items in a list 
+9.sublist is simmilar way 
+10.Anchor page - link to another page 
+11. IMAGE load local file or from web
+12. ALT, NO CLOSING IMG < 
+13. COMMENTS <!-- COMMENT IN CODE NOT TO SHOW ON UI --> 
+14. span & div
+
+HTML- 
+HTML5- Enhancced elements attributes graphics behaviour 3D 
+block Vs inline
+ 15.odd assortment elements:
+<BR> FOR BREAK I LINES 
+<HR> Horizontal row
+<SUP> SUPERSCRIPT
+<SUB> SUBSCRIPT
+15.Entity code:
+greater than & less than, and 
+16.Semantic marker: element
+DIV,
+MAIN: main page 
+NAV Navigation
+footer
+section: grouping of content
+adding meaning to markup is idea of semantic more navigable in screen page 
+generec container:
+<div>  INSIDE THAT:
+<section> standalone section
+<article> used to group content together the main content on UI page -independently distributable and reusable
+<nav> naigation
+<main>
+<header>
+<footer>
+<aside>aa 
+<summary>
+<details>
+time
+date
+figure
+screen reader ctl+F5S
+websites used :
+STRIP.COM USED FOR expmple
+medium 
